@@ -5,7 +5,7 @@ import Student from "./Student";
 import {  Route, Routes } from "react-router-dom";
 import StudentEdit from "./StudentEdit";
 
-const RouteCompo = ()=>{
+const RouteCompont = ()=>{
     return(
         <>
           
@@ -20,4 +20,4 @@ const RouteCompo = ()=>{
     )
 }
 
-export default RouteCompo
+export default RouteCompont

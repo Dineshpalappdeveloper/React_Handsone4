@@ -7,7 +7,7 @@ const Student = ()=>{
 
     const [Data] = useState([
         {
-            Name : "John",
+            Name : "Rakesh",
             Age : 26,
             Course:"Python",
             Batch :"October",
@@ -16,7 +16,7 @@ const Student = ()=>{
 
         },
         {
-            Name : "Doe",
+            Name : "Mukesh",
             Age : 25,
             Course:"MERN",
             Batch :"November",
@@ -24,7 +24,7 @@ const Student = ()=>{
 
         },
         {
-            Name : "James",
+            Name : "Ramesh",
             Age : 22,
             Course:"Data Science",
             Batch :"September",
@@ -32,7 +32,7 @@ const Student = ()=>{
 
         },
         {
-            Name : "Brook",
+            Name : "Monu",
             Age : 22,
             Course:"MEAN",
             Batch :"July",
@@ -40,7 +40,7 @@ const Student = ()=>{
 
         },
         {
-            Name : "Bridget",
+            Name : "Deepak",
             Age : 21,
             Course:"Acting",
             Batch :"October",
@@ -48,7 +48,7 @@ const Student = ()=>{
 
         },
         {
-            Name : "Elent",
+            Name : "Ramu",
             Age : 26,
             Course:"MERN",
             Batch :"March",
